@@ -1,11 +1,16 @@
 _repo: Uit-de-ontwikkelingsgeschiedenis-van-het-Menschelijk-Denken-Deel-2-van-2_57730
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57730-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Casimir, Rommert
     gutenberg_agent_id: '48557'
     url: http://www.gutenberg.org/2009/agents/48557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57730#Uit-de-ontwikkelingsgeschiedenis-van-het-Menschelijk-Denken-Deel-2-van-2
 gutenberg_issued: '2018-08-19'
 gutenberg_type: Text
 identifiers:
